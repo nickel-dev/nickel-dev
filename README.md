@@ -1,4 +1,4 @@
-<div class="prtfolio" align="center">
+<div class="prtfolio" align="center" margin-right=10% margin-left=10%>
   <h2>my portfolio</h2>
   <a href="https://vlang.io/"><img src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.png" width=60 height=60></a>
   <a href="https://python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=60 height=60></a>
