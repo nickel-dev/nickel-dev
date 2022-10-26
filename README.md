@@ -1,4 +1,4 @@
-<div class="about me">
+<div class="about me" align="center">
   <h2>about me</h2>
   <p>Hello, little wanderer ... I'm Daniel Nickel. A German student with development (mostly games) mind.</p>
 </div>
