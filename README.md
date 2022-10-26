@@ -4,7 +4,7 @@
 </div>
 
 <div class="links">
-  <ul align="center" text-decoration="none" list-style-type="none">
+  <ul align="left" text-decoration="none" list-style-type="none">
     <li><a href="https://nickel-dev.github.io/">my website</a></li>
     <li><a href="https://www.youtube.com/channel/UC0EUzVE5lTTZ8aGAZ9D60zA">youtube</a></li>
   </ul>
@@ -15,8 +15,10 @@
   <a href="mailto: nickel-dev@proton.me">nickel-dev@proton.me</a>
 </div>
 
+<div class="stats" align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickel-dev)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
+  
 <div class="prtfolio" align="center" margin-right=10% margin-left=10%>
   <h2>my portfolio</h2>
   <a href="https://vlang.io/"><img src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.png" width=40 height=40></a>
