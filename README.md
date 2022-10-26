@@ -4,15 +4,15 @@
 </div>
 
 <div class="links">
-  <ul>
+  <ul align="center">
     <li><a href="https://nickel-dev.github.io/">my website</a></li>
     <li><a href="https://www.youtube.com/channel/UC0EUzVE5lTTZ8aGAZ9D60zA">youtube</a></li>
   </ul>
 </div>
 
-<div class="contact">
+<div class="contact" align="center">
   <h2>contact</h2>
-  <a href="mailto: nickel-dev@proton.me">mail</a>
+  <a href="mailto: nickel-dev@proton.me">nickel-dev@proton.me</a>
 </div>
 
 <div class="prtfolio" align="center" margin-right=10% margin-left=10%>
