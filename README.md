@@ -1,6 +1,6 @@
 <div class="about me" align="left">
   <h1>about me</h1>
-  <div align="center" style="color: #ff0000;">
+  <div align="center">
     <h2>
       Hello, little wanderer ... I'm Daniel Nickel.<br>
       I'm a German student with development (mostly games) mind.<br>
