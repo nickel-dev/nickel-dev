@@ -1,6 +1,6 @@
 <div class="about me" align="left">
   <h1>about me</h1>
-  <h2>
+  <h2 aling="center">
     Hello, little wanderer ... I'm Daniel Nickel.<br>
     I'm a German student with development (mostly games) mind.<br>
     I do most of my work in c with OpenGL from scratch. =)
