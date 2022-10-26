@@ -16,7 +16,7 @@
 
 <div class="contact" align="left">
   <h1>contact</h1>
-  <a href="mailto: nickel-dev@proton.me">nickel-dev@proton.me</a>
+  <a font-size=200% href="mailto: nickel-dev@proton.me">nickel-dev@proton.me</a>
 </div>
 
 <h1>github stats</h1>
