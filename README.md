@@ -19,6 +19,7 @@
   <a href="mailto: nickel-dev@proton.me">nickel-dev@proton.me</a>
 </div>
 
+<h1>github stats</h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickel-dev)](https://github.com/anuraghazra/github-readme-stats)
   
 <div class="prtfolio" align="left" margin-right=10% margin-left=10%>
