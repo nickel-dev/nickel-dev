@@ -8,7 +8,7 @@
 </div>
 
 <div class="links">
-  <ul align="left" text-decoration="none" list-style-type="none">
+  <ul align="left">
     <li><a href="https://nickel-dev.github.io/">my website</a></li>
     <li><a href="https://www.youtube.com/channel/UC0EUzVE5lTTZ8aGAZ9D60zA">youtube</a></li>
   </ul>
@@ -16,14 +16,14 @@
 
 <div class="contact" align="left">
   <h1>contact</h1>
-  <a font-size=200% href="mailto: nickel-dev@proton.me">nickel-dev@proton.me</a>
+  <a href="mailto: nickel-dev@proton.me">nickel-dev@proton.me</a>
 </div>
 
 <h1>github stats</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickel-dev)](https://github.com/anuraghazra/github-readme-stats)
   
-<div class="prtfolio" align="left" margin-right=10% margin-left=10%>
+<div class="portfolio" align="left">
   <h1>my portfolio</h1>
   <a href="https://vlang.io/"><img src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.png" width=40 height=40></a>
   <a href="https://python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=40 height=40></a>
