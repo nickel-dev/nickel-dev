@@ -1,5 +1,13 @@
-<div class="about me" background-color=#111111>
-  fart
+<div class="about me">
+  <h2>about me</h2>
+  <p>Hello, little wanderer ... I'm Daniel Nickel. A German student with development (mostly games) mind.</p>
+</div>
+
+<div class="links">
+  <ul>
+    <li><a href="https://nickel-dev.github.io/">my website</a></li>
+    <li><a href="https://www.youtube.com/channel/UC0EUzVE5lTTZ8aGAZ9D60zA">youtube</a></li>
+  </ul>
 </div>
 
 <div class="prtfolio" align="center" margin-right=10% margin-left=10%>
