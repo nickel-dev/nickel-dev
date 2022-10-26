@@ -1,4 +1,4 @@
-<div class="about me" align="center">
+<div class="about me" align="left">
   <h2>about me</h2>
   <p>Hello, little wanderer ... I'm Daniel Nickel. A German student with development (mostly games) mind.</p>
 </div>
@@ -10,14 +10,12 @@
   </ul>
 </div>
 
-<div class="contact" align="center">
+<div class="contact" align="left">
   <h2>contact</h2>
   <a href="mailto: nickel-dev@proton.me">nickel-dev@proton.me</a>
 </div>
 
-<div class="stats" align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickel-dev)](https://github.com/anuraghazra/github-readme-stats)
-</div>
   
 <div class="prtfolio" align="center" margin-right=10% margin-left=10%>
   <h2>my portfolio</h2>
