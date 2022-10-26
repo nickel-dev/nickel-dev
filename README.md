@@ -4,7 +4,7 @@
 </div>
 
 <div class="links">
-  <ul align="center">
+  <ul align="center" text-decoration="none" list-style-type="none">
     <li><a href="https://nickel-dev.github.io/">my website</a></li>
     <li><a href="https://www.youtube.com/channel/UC0EUzVE5lTTZ8aGAZ9D60zA">youtube</a></li>
   </ul>
