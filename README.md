@@ -23,7 +23,8 @@
 
 <h1>github stats</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickel-dev)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=adzsx&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adzsx&theme=dark"/>
   
 <div class="portfolio" align="left">
   <h1>my portfolio</h1>
